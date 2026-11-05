@@ -7,3 +7,7 @@ I build small tools for reading, training, and market-data research.
 - [notion_library](https://github.com/Zeeeeeta/notion_library) syncs finished WeRead books into a Notion reading database, including highlights and a book review.
 - [fitness_tracker](https://github.com/Zeeeeeta/fitness_tracker) is a local workout planner with a calendar and progress log.
 - [ibkr](https://github.com/Zeeeeeta/ibkr) is a private Interactive Brokers market-data research project. Only a high-level overview is public.
+
+## Contact
+
+Email: [lizechen2014@hotmail.com](mailto:lizechen2014@hotmail.com)
